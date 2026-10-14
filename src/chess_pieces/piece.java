@@ -1,3 +1,4 @@
+package chess_pieces;
 public abstract class piece {
     private final boolean white;
 
